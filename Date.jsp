@@ -9,5 +9,6 @@
 </head>
 <body>
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
+    TomCat and Jenkins APP
 </body>
 </html>
